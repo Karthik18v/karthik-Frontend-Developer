@@ -1,0 +1,15 @@
+.help-container{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    align-items: flex-start;
+}
+.help{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100vw;
+}
+.question-items{
+    margin: 30px;
+}

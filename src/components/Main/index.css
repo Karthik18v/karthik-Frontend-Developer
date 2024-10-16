@@ -1,0 +1,9 @@
+.main-container {
+    background-image: url("https://i.imghippo.com/files/Viop91729066627.png");
+    height: 500px;
+    padding-top:200px;
+    width: 100vw;
+}
+.main{
+    display: flex;
+}

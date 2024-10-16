@@ -1,0 +1,30 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: auto;
+    text-align: center;
+    background-color: #00161D;
+    width: 100vw;
+    
+}
+.heading{
+    background-color: #B0F9FF;
+    color: black;
+    border-radius: 20px;
+    padding: 0px 10px;
+}
+p{
+    color: #B0FAFFB2;
+}
+
+.open-dapps-btn{
+    border:  1px solid #B0F9FF;
+    align-self: center;
+    padding: 10px;
+    background-color: transparent;
+    color: white;
+    border-radius: 10px;
+}
